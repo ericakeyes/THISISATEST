@@ -10,7 +10,7 @@ import java.nio.file.Paths;
 public class MakeMariaFiles {
 
 	public static void main(String[] args) {
-		final String baseDirectory = "C:\\Users\\EricaKeyes\\Documents\\GitHub\\cdnservices\\src\\main\\resources\\queries";
+		final String baseDirectory = "C:\\Users\\EricaKeyes\\Documents\\GitHub\\cdnservices";
 			
 		File srcDir = new File(baseDirectory);
 
